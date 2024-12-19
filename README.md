@@ -1,1 +1,4 @@
 # botXdir
+Feature
+->chat
+->voice
